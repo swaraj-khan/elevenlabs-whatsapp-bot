@@ -1,0 +1,7 @@
+streamlit 
+websockets 
+python-dotenv
+fastapi 
+uvicorn
+python-multipart
+httpx
